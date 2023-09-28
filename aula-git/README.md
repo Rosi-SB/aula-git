@@ -1,1 +1,0 @@
-Aprendendo a utilizar os comandos do Git
